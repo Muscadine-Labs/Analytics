@@ -1,14 +1,5 @@
 # Security Policy
 
-## Supported Versions
-
-We release patches for security vulnerabilities for the latest version of Analytics. We recommend always running the latest stable release.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| Latest  | :white_check_mark: |
-| < Latest | :x:              |
-
 ## Reporting a Vulnerability
 
 **Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
@@ -16,8 +7,6 @@ We release patches for security vulnerabilities for the latest version of Analyt
 If you discover a security vulnerability in Curator, please report it privately:
 
 1. **Email** muscadinelabs@gmail.com with details, or
-2. **Use GitHub Security Advisories**  
-   Go to the [Security](https://github.com/Muscadine-Labs/Curator/security) tab and click "Report a vulnerability" to create a private advisory. This allows us to coordinate the fix and disclosure.
 
 3. **Include the following in your report:**
    - Type of issue (e.g., XSS, injection, DoS)
