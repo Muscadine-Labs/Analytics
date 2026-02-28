@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-We release patches for security vulnerabilities for the latest version of Curator. We recommend always running the latest stable release.
+We release patches for security vulnerabilities for the latest version of Analytics. We recommend always running the latest stable release.
 
 | Version | Supported          |
 | ------- | ------------------ |
